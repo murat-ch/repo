@@ -1,0 +1,31 @@
+
+Lesson 1:
+
+Map:
+	- Git
+		- repository
+			- git clone
+			- commit
+				- git log
+				- git diff
+
+Lesson 2:
+
+	- git init
+	- git add
+	- git status
+	- staging area
+	- working directory
+
+Map:
+	- Git
+		- repository
+			- git init
+			- git clone
+			- commit
+				- git log
+				- git diff
+		- staging area
+			- git add
+			- git status
+		working directory
