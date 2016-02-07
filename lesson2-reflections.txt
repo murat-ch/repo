@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	- From this point you, Git will track all changes in commits in this folder.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	- Staging area is intermediate point before commit, you choose which files put for simultaneous commit. 
