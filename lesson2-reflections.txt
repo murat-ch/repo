@@ -7,4 +7,4 @@ How is the staging area different from the working directory and the repository?
 	- Staging area is intermediate point before commit, you choose which files put for simultaneous commit.
 
 How can you use the staging area to make sure you have one commit per logical changes?
-	- I figure out now
+	- By adding only files that are belongs to particular logical change.
